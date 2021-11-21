@@ -1,0 +1,83 @@
+
+	    WELCOME TO VOCABS!
+
+Vocabs allows you to create your own dictionary 
+of words and exercise with them. The program is 
+divided into four sections and how to best use 
+each one is detailed below. 
+
+You can reach this help section by clicking on
+HELP or by pressing H on the main screen.
+
+ADD WORDS
+
+You can enter new words into your personal 
+dictionary on this screen. A word and a meaning
+must be entered in order to be able to save the
+word. Entering its type (e.g., noun, verb, adj)
+is also highly recommended. When you enter the
+type of a noun or a verb, enter "n" or "noun" and
+"v" or "verb", respectively. For other types of 
+words you can enter the type however you want.   
+        
+SEE WORDS (Personal Dictionary)
+
+This is your personal dictionary and you can see 
+all the words you've added and their meanings on 
+this screen. Clicking on the words allows you to
+see their details as well (type, article, gender;
+depending on the language you are learning and
+the type of the word). You can sort the words
+alphabetically or by the last one added. You can
+also see only recently added words, either weekly
+or monthly (last added first).   
+
+
+WORD EXERCISE
+
+This exercise allows you to test your knowledge 
+of the words in your personal dictionary. You
+can see whether your answer was correct as well
+as the correct answer itself. The program 
+automatically goes on to another question after 
+displaying the correct answer. When you enter a 
+wrong answer, the program waits a bit longer to 
+make sure that you see the correct answer 
+before moving on to another word.
+  
+
+SPELLING EXERCISE
+
+This exercise allows you to test your spelling
+knowledge of the words in your personal 
+dictionary. Depending on the length of the word,
+it displays one or two letters of the word and 
+gives you its meaning. You need the spell the 
+word in its entirety (not just filling in the 
+blanks) in order for the program to accept your
+answer as correct. The program automatically 
+goes on to another question after displaying the
+correct answer. If you enter a wrong answer, 
+the program waits a bit longer to make sure that 
+you see the correct answer before moving on to 
+another word.
+
+OPTIONS 
+
+You can open the options menu by clicking on 
+OPTIONS or pressing O on the main screen. 
+
+This menu allows you to limit the pool of words
+the program tests you on in the Word Exercise 
+and the Spelling Exercise. You can define this 
+pool of words by size (last 50 words added).  
+
+Please be aware that the options menu go back 
+to default settings whenever the program is shut 
+down and relaunched.
+
+
+
+Vocabs was created by Ugur Akin 
+ugur.akin.boun@gmail.com
+
